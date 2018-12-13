@@ -51,12 +51,13 @@ img{ display: block; max-width: 100%; height: auto; }
     background: #000000;
     padding: 6px 0 15px;
 }
-.logo h2 {
+.logo a {
     font-size: 35px;
     line-height: 39px;
     color: #fff;
     font-family: 'robotobold';
     text-transform: capitalize;
+    display: inline-block;
 }
 /*=======Header-finish======== */
 

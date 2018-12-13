@@ -125,6 +125,14 @@
     text-align: center;
 }
 .our_attending ul {
+    max-width: 300px;
+    margin: 0 auto;
+}
+.our_attending ul li span {
+    margin-left: 13px;
+    font-size: 13px;
+    line-height: 17px;
+    width: 50%;
     text-align: left;
 }
 .modal-header h4 {
